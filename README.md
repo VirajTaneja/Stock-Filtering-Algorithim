@@ -1,4 +1,5 @@
-Stock Screener and Trading Algorithm
+Stock Screener and Trading Algorithm:
+
 This project is a Python-based stock screener and trading algorithm that scans the NASDAQ, S&P 500, and Dow Jones indices to identify the top 5 daily gainers with the following criteria:
 
 Stock price above $3
